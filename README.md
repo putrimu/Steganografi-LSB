@@ -18,3 +18,10 @@ Cara Membuka aplikasi :
 2. aktifkan XAMPP
 3. Buka Browser dan ke page http://localhost/Steganografi-LSB/
 4. Silahkan encrypt dan decrypt sesuai menu
+
+
+Tampilan Encrypt :
+![](https://github.com/putrimu/Steganografi-LSB/blob/master/Encrypt%20Text%20ke%20dalam%20gambar.jpg)
+
+Tampilan Decrypt :
+![] (https://github.com/putrimu/Steganografi-LSB/blob/master/Hasil%20Decrypt%20Gambar.jpg)
