@@ -21,7 +21,9 @@ Cara Membuka aplikasi :
 
 
 Tampilan Encrypt :
+
 ![](https://github.com/putrimu/Steganografi-LSB/blob/master/Encrypt%20Text%20ke%20dalam%20gambar.jpg)
 
 Tampilan Decrypt :
-![] (https://github.com/putrimu/Steganografi-LSB/blob/master/Hasil%20Decrypt%20Gambar.jpg)
+
+![](https://github.com/putrimu/Steganografi-LSB/blob/master/Hasil%20Decrypt%20Gambar.jpg)
