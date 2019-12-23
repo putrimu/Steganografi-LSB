@@ -1,9 +1,10 @@
 # Steganografi-LSB
 
 UAS Kelas Kriptografi
-Putri Mariah Ulfa	1167050123
-Nina Restiana		1167050115
-Zafiratul Amalia	1167050170
+
+Putri Mariah Ulfa		1167050123
+Nina Restiana			1167050115
+Zafiratul Amalia		1167050170
 Dina Mardiana Hidayat	1167050053
 
 Cara Membuka aplikasi :
